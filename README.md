@@ -83,6 +83,7 @@ Atualmente estudando:
 
 ---
 
-![snake gif](https://github.com/JVRicci/JVRicci/blob/output/github-snake.svg)
+![snake gif](https://github.com/JVRicci/JVRicci/blob/output/github-snake.svg?raw=true)
+
 
 <p align="center">Obrigado pela visita! 😄</p>
