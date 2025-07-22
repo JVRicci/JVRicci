@@ -1,5 +1,9 @@
 name: Generate Snake Animation
 
+permissions:
+  contents: write  # 👈 isso é o que faltava para poder dar push
+
+
 on:
   schedule:
     - cron: "0 0 * * *"  # todo dia à meia-noite
