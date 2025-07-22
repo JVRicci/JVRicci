@@ -4,10 +4,34 @@
   Desenvolvedor Backend com foco em <strong>Python</strong> 🐍 | Apaixonado por tecnologia, código limpo e desafios! 🚀
 </p>
 
-<p float="left" align="center">
+<div  align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JVRicci&show_icons=true&hide=issues,prs&theme=radical&hide_rank=true" width=450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVRicci&layout=compact&theme=radical" width="250" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVRicci&layout=compact&theme=radical" width="250" />  
+</div>
+
+
+<div  align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" width="50"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="50"/>
+          
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50"/>         
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" width="50"/>
+                  
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="50"/>
+  
+          
+<div />
 
 ---
 
