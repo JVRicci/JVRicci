@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o João Vitor 👋</h1>
 
-<!--
-**JVRicci/JVRicci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desenvolvedor Backend com foco em <strong>Python</strong> 🐍 | Apaixonado por tecnologia, código limpo e desafios! 🚀
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Sobre mim
+
+- 🔧 Trabalho atualmente como **Desenvolvedor Backend Python**
+- 📚 Já atuei com **PHP/Laravel** e continuo evoluindo em **JavaScript (Node.js, React)**  
+- 🎮 Também me aventuro em **projetos com Unity 2D**
+- 💡 Sempre estudando e buscando melhorar como dev e como pessoa
+
+---
+
+### 🛠️ Tecnologias que utilizo
+
+**Backend:**
+- Python (FastAPI, Django)
+- PHP (Laravel)
+- Node.js (Express)
+
+**Frontend:**
+- HTML, CSS, JavaScript
+- React.js, Vue.js
+
+**Banco de Dados:**
+- PostgreSQL, MySQL, SQLite
+- MongoDB
+
+**Outros:**
+- Docker, Git/GitHub, Linux (WSL), API REST
+- Testes automatizados, Clean Architecture, SOLID
+
+---
+
+### 🌱 Em constante aprendizado
+
+Atualmente estudando:
+
+- 📦 Microsserviços com Python e Node.js  
+- ☁️ DevOps (CI/CD, Docker, testes)
+- ⚛️ React com foco em performance e boas práticas
+
+---
+
+### 📫 Vamos conectar?
+
+
+- LinkedIn: [Acessar](https://www.linkedin.com/in/joão-vitor-de-souza-ricci-135999311/)
+- Email: jvricci99@gmail.com
+
+---
+
+<p align="center">Obrigado pela visita! 😄</p>
