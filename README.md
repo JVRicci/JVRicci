@@ -49,7 +49,7 @@
 **Backend:**
 - Python (FastAPI, Django)
 - PHP (Laravel)
-- Node.js (Express)
+- Node.js (Fastapi, Express)
 
 **Frontend:**
 - HTML, CSS, JavaScript
