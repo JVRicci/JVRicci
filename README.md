@@ -83,8 +83,6 @@ Atualmente estudando:
 
 ---
 
-![Snake dark](https://github.com/JVRicci/JVRicci/blob/output/github-snake-dark.svg?raw=true)
-
-
+![Snake animation](https://github.com/JVRicci/JVRicci/blob/output/github-snake.svg?raw=true&t=123456)
 
 <p align="center">Obrigado pela visita! 😄</p>
