@@ -5,7 +5,6 @@
 </p>
 
 ![JVRicci's GitHub stats](https://github-readme-stats.vercel.app/api?username=JVRicci&show_icons=true&theme=radical&rank_icon=none&hide_rank=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVRicci&layout=compact&theme=radical)
 
 
