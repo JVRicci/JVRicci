@@ -3,9 +3,13 @@
 <p align="center">
   Desenvolvedor Backend com foco em <strong>Python</strong> 🐍 | Apaixonado por tecnologia, código limpo e desafios! 🚀
 </p>
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=JVRicci&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVRicci&layout=compact&theme=radical)
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=JVRicci&show_icons=true&hide=issues,prs&theme=radical&hide_rank=true" width="700" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVRicci&theme=radical&count=5" width="225" height="500" />
+</p>
+
+
 
 ---
 
