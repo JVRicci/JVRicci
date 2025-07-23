@@ -10,7 +10,7 @@
 </div>
 
 
-<div  align="center">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" width="50"/>
@@ -28,51 +28,61 @@
                   
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="50"/>
-  
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="50"/>       
 <div />
 
 ---
 
 ### 💻 Sobre mim
 
-- 🔧 Trabalho atualmente como **Desenvolvedor Backend Python**
-- 📚 Já atuei com **PHP/Laravel** e continuo evoluindo em **JavaScript (Node.js, React)**  
-- 🎮 Também me aventuro em **projetos com Unity 2D**
-- 💡 Sempre estudando e buscando melhorar como dev e como pessoa
+<div align="center">
+  <p>🔧 Trabalho atualmente como **Desenvolvedor Backend Python**</p>
+  <p>📚 Já atuei com **PHP/Laravel** e continuo evoluindo em **JavaScript (Node.js, React)**</p>
+  <p>🎮 Também me aventuro em **projetos com Unity 2D**</p>
+  <p>💡 Sempre estudando e buscando melhorar como dev e como pessoa</p>
+</div>
 
 ---
 
 ### 🛠️ Tecnologias que utilizo
 
 **Backend:**
-- Python (FastAPI, Django)
-- PHP (Laravel)
-- Node.js (Fastapi, Express)
+<div align="center">
+  <p>Python (FastAPI, Django)</p>
+  <p>PHP (Laravel)</p>
+  <p>Node.js (Fastapi, Express)</p>
+</div>
 
 **Frontend:**
-- HTML, CSS, JavaScript
-- React.js, Vue.js
+<div align="center">
+    <p>HTML, CSS, JavaScript</p>
+    <p>React.js, Vue.js</p>
+</div>
+
 
 **Banco de Dados:**
-- PostgreSQL, MySQL, SQLite
-- MongoDB
+<div align="center">
+  <p>PostgreSQL, MySQL, SQLite</p>
+  <p>MongoDB</p>
+</div>
 
 **Outros:**
-- Docker, Git/GitHub, Linux (WSL), API REST
-- Testes automatizados, Clean Architecture, SOLID
+<div align="center">
+  <p>Docker, Git/GitHub, Linux (WSL), API REST</p>
+  <p>Testes automatizados, Clean Architecture, SOLID</p>
+</div>
 
 ---
 
 ### 🌱 Em constante aprendizado
 
-Atualmente estudando:
-
-- 📦 Microsserviços com Python e Node.js  
-- ☁️ DevOps (CI/CD, Docker, testes)
-- ⚛️ React com foco em performance e boas práticas
-
+<div align="center">
+  Atualmente estudando:
+  
+  <p>📦 Microsserviços com Python e Node.js</p>
+  <p>☁️ DevOps (CI/CD, Docker, testes)</p>
+  <p>⚛️ React com foco em performance e boas práticas</p>
+</div>
 ---
 
 ### 📫 Vamos conectar?
