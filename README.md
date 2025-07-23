@@ -83,13 +83,20 @@
   <p>☁️ DevOps (CI/CD, Docker, testes)</p>
   <p>⚛️ React com foco em performance e boas práticas</p>
 </div>
+
 ---
 
 ### 📫 Vamos conectar?
 
-
-- LinkedIn: [Acessar](https://www.linkedin.com/in/joão-vitor-de-souza-ricci-135999311/)
-- Email: jvricci99@gmail.com
+<div align="center"> 
+  <p> 
+    
+  LinkedIn: [Acessar](https://www.linkedin.com/in/joão-vitor-de-souza-ricci-135999311/)
+  </p>
+  <p> 
+  Email: jvricci99@gmail.com
+  </p>  
+</div>
 
 ---
 
