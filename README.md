@@ -44,48 +44,6 @@
 
 ---
 
-### 🛠️ Tecnologias que utilizo
-
-**Backend:**
-<div align="center">
-  <p>Python (FastAPI, Django)</p>
-  <p>PHP (Laravel)</p>
-  <p>Node.js (Fastapi, Express)</p>
-</div>
-
-**Frontend:**
-<div align="center">
-    <p>HTML, CSS, JavaScript</p>
-    <p>React.js, Vue.js</p>
-</div>
-
-
-**Banco de Dados:**
-<div align="center">
-  <p>PostgreSQL, MySQL, SQLite</p>
-  <p>MongoDB</p>
-</div>
-
-**Outros:**
-<div align="center">
-  <p>Docker, Git/GitHub, Linux (WSL), API REST</p>
-  <p>Testes automatizados, Clean Architecture, SOLID</p>
-</div>
-
----
-
-### 🌱 Em constante aprendizado
-
-<div align="center">
-  Atualmente estudando:
-  
-  <p>📦 Microsserviços com Python e Node.js</p>
-  <p>☁️ DevOps (CI/CD, Docker, testes)</p>
-  <p>⚛️ React com foco em performance e boas práticas</p>
-</div>
-
----
-
 ### 📫 Vamos conectar?
 
 <div align="center"> 
